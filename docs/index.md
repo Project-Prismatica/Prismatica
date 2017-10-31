@@ -1,1 +1,3 @@
-<img align="right" src="https://github.com/Project-Prismatica/Prismatica/blob/master/logo.png" height="150px" width="150px">
+The Prismatica project is dedicated to having your cake and eating it too.
+
+![Screenshot]({{ site.url }}/screen.png)
