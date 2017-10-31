@@ -37,3 +37,7 @@ var BeaconHandler = React.createClass({
   }
 });
 ```
+
+```
+![Screenshot]({{ site.url }}/hills.png)
+```
