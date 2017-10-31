@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Acheron-VAF/Acheron/blob/master/src/gui/public/img/logo.png" height="150px" width="150px">
+<img align="right" src="https://github.com/Project-Prismatica/Prismatica/logo.png" height="150px" width="150px">
 
 # Acheron (In Development)
 
