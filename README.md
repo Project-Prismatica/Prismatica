@@ -7,7 +7,7 @@
 ![Version](https://img.shields.io/badge/Version-0.01-green.svg)
 ![Code](https://img.shields.io/badge/Code-Python%20%7C%20Javascript%20%7C%20ReactJS%20%7C%20MySQL%20%7C%20Electron%20%7C%20JSON-blue.svg)
 
-Prismatica is a modular C2 Interface hooked into the Diagon Command and Control Toolkit. 
+Prismatica is a modular C2 Interface hooked into the Diagon Command and Control Toolkit. There are multiple tools and components of the Prismatica Marketplace. All Prism Apps are built around the Emergence Fabric. To get started begin with [Emergence](https://github.com/Project-Prismatica/Emergence)
 
 ![alt tag](docs/screenshot.png)
 
