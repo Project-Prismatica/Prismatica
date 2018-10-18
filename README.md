@@ -9,6 +9,16 @@
 
 Prismatica is a modular C2 Interface hooked into the Diagon Command and Control Toolkit. There are multiple tools and components of the Prismatica Marketplace. All Prism Apps are built around the Emergence Fabric. To get started begin with [Emergence](https://github.com/Project-Prismatica/Emergence)
 
+## Prismatica Application Marketplace
+
+- [Prism Launcher]() The package manager for Prism Apps (Releasing at WWHF)
+- [Prism Project Manager]() Project management, findigns, and reporting tool (Releasing at WWHF)
+- [Diagon](https://github.com/Project-Prismatica/Diagon) A Command and Control Toolkit
+- [Acheron](https://github.com/Acheron-VAF/Acheron) A 
+- [Tiberium](https://github.com/0sm0s1z/Tiberium/releases) A Command and Control scanning tool
+
+
+
 ![alt tag](docs/screenshot.png)
 
 

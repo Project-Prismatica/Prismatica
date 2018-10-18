@@ -1,5 +1,14 @@
 The Prismatica project is dedicated to having your cake and eating it too.
 
+## Prismatica Application Marketplace  
+
+- [Prism Launcher]() The package manager for Prism Apps (Releasing at WWHF) 
+- [Prism Project Manager]() Project management, findigns, and reporting tool (Releasing at WWHF) 
+- [Diagon](https://github.com/Project-Prismatica/Diagon) A Command and Control Toolkit 
+- [Acheron](https://github.com/Acheron-VAF/Acheron) Acheron is a RESTful vulnerability assessment and management framework built around search and dedicated to terminal extensibility. (Releasing at WWHF)
+- [Tiberium](https://github.com/0sm0s1z/Tiberium/releases) A Command and Control scanning tool
+
+
 ![Screenshot]({{ site.url }}/screenshot.png)
 
 
