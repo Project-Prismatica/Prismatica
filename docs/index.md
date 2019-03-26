@@ -2,6 +2,42 @@ The Prismatica project is dedicated to having your cake and eating it too.
 
 ## Getting Started
 
+To get started with Prismatica you will need to spin up an Emergence server to bind all subcomponents together across a shared data model. Emergence servers can be spun up quickly using Docker. Alternately, it can be executed manually using the `npm install` and `npm start` commnads. To run Emergence within a Docker container the `docker` and `docker-compose` commands must be installed. Installing Docker:
+
+On Windows: https://docs.docker.com/docker-for-windows/install/
+
+On Linux:
+```
+apt install docker.io
+apt install docker-compose
+```
+
+Run Emergence:
+```
+git clone https://github.com/Project-Prismatica/Emergence.git
+cd Emergence
+docker-compose up
+```
+
+Now that Emergence is running you are ready to start up Prism Apps! Diagon and Oculus are a good place to start.
+
+Installing Diagon:
+
+Diagon can be downloaded at the following link: [Diagon](https://github.com/Project-Prismatica/Diagon)
+
+![Screenshot]({{ site.url }}/screenshot.gif)
+
+You will need to configure the Diagon settings with the IP address of the system where Emergence is running. Then to setup listeners you will need to run Oculus.
+
+Installing Oculus:
+
+```
+git clone https://github.com/Project-Prismatica/Diagon.git
+cd Oculus
+python oculus.py
+```
+
+Now you're all ready to rock and roll! Happy Hacking!
 
 ## Prismatica Application Marketplace
 
@@ -12,10 +48,6 @@ The Prismatica project is dedicated to having your cake and eating it too.
 - [Prism Project Manager]() Project management, findigns, and reporting tool (Releasing at WWHF)
 - [Acheron](https://github.com/Acheron-VAF/Acheron) Acheron is a RESTful vulnerability assessment and management framework built around search and dedicated to terminal extensibility.
 - [Tiberium](https://github.com/0sm0s1z/Tiberium/releases) A Command and Control scanning tool
-
-
-![Screenshot]({{ site.url }}/screenshot.gif)
-
 
 
 ## Simple REACTJS Beacon
