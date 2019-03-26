@@ -1,15 +1,20 @@
 The Prismatica project is dedicated to having your cake and eating it too.
 
-## Prismatica Application Marketplace  
+## Getting Started
 
-- [Prism Launcher]() The package manager for Prism Apps (Releasing at WWHF) 
-- [Prism Project Manager]() Project management, findigns, and reporting tool (Releasing at WWHF) 
-- [Diagon](https://github.com/Project-Prismatica/Diagon) A Command and Control Toolkit 
-- [Acheron](https://github.com/Acheron-VAF/Acheron) Acheron is a RESTful vulnerability assessment and management framework built around search and dedicated to terminal extensibility. (Releasing at WWHF)
+
+## Prismatica Application Marketplace
+
+- [Diagon](https://github.com/Project-Prismatica/Diagon) The Diagon Attack Framework is a Prismatica application containing the Ravenclaw, Gryffindor, and Slytherin remote access tools (RATs).
+- [Emergence](https://github.com/Project-Prismatica/Emergence) The Emergence fabric is an interface where interaction and integration of disparate information security subsystems gain combined intelligence.
+- [Oculus](https://github.com/Project-Prismatica/Oculus) Oculus is a malleable python-based C2 system allowing for instantiation of listeners for the purpose of communication with remote access tools (RATs).
+- [Prism Launcher]() The package manager for Prism Apps (Releasing at WWHF)
+- [Prism Project Manager]() Project management, findigns, and reporting tool (Releasing at WWHF)
+- [Acheron](https://github.com/Acheron-VAF/Acheron) Acheron is a RESTful vulnerability assessment and management framework built around search and dedicated to terminal extensibility.
 - [Tiberium](https://github.com/0sm0s1z/Tiberium/releases) A Command and Control scanning tool
 
 
-![Screenshot]({{ site.url }}/screenshot.png)
+![Screenshot]({{ site.url }}/screenshot.gif)
 
 
 
