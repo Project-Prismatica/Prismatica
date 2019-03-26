@@ -21,4 +21,4 @@ Prismatica is a modular C2 Interface hooked into the Diagon Command and Control 
 
 
 
-![alt tag](docs/screenshot.png)
+![alt tag](docs/screenshot.gif)
