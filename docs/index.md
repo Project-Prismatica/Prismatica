@@ -32,7 +32,7 @@ You will need to configure the Diagon settings with the IP address of the system
 Installing Oculus:
 
 ```
-git clone https://github.com/Project-Prismatica/Diagon.git
+git clone https://github.com/Project-Prismatica/Oculus.git
 cd Oculus
 python oculus.py
 ```
