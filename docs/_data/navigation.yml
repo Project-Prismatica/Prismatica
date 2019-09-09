@@ -1,8 +1,8 @@
 main:
   - title: "Getting Started"
     url: /guides/
-  - title: "Demo"
-    url: /posts/
+#  - title: "Demo"
+#    url: /posts/
   - title: "API Documentation"
     url: https://documenter.getpostman.com/view/1609493/7TT8UqJ?version=latest
   - title: "Development"
