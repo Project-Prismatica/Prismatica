@@ -39,6 +39,9 @@ introimg3:
     title: "Prismatica Implants"
     excerpt: 'Prismatica includes a **Backdoor Factory** to enable the rapid development and deployment of implants.
     The default Prismatica implant, Gryffindor, is written in WSH JavaScript and leverages .NET Post-Exploitation libraries through DotNetToJScript.'
+    url: "/diagon/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 outro:
 - image_path: /assets/images/demo4.png
   alt: "placeholder image 2"
