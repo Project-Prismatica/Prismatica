@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Matthew Toussain"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "If there’s a common thread in Matthew Toussain’s personal life and infosec career, it’s ingenuity. He’s turned a ’76 Mustang into an electric car, worked on programs designed to provide early warnings of orchestrated terrorist attacks, and teaches his SANS Institute students to think outside the box while sharpening their skills in penetration testing. It was a SANS instructor that inspired Matthew to join the faculty at SANS. “The opportunity to have that kind of elemental impact on a newcomer’s information security journey is singular, rare, and profound.” he says. His impact at SANS is notable; he’s already co-authored a course, SEC460 - Enterprise Threat and Vulnerability Assessment, and teaches SEC560, all while continuing to work as a security analyst for several firms, including Open Security, which he founded."
+  bio    : ""
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -106,7 +106,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid
