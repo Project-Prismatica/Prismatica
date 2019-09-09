@@ -11,7 +11,7 @@ header:
     - label: "Download"
       url: "https://github.com/Project-Prismatica/Diagon/releases"
   caption: "Image courtesy of [Open Security](https://opensecurity.com/)"
-excerpt: "C2, modular, agnostic, better than ever."
+excerpt: "C2 - Modular, agnostic, and better than ever."
 intro:
   - excerpt: 'Project Prismatica is a focused framework for Command and Control that is dedicated to extensibility. Our core objective is to provide a convenient platform with modular **Transports**, **Backends**, and **Implants** to enable rapid retooling opportunities and enhance Red Team operations.'
 
@@ -19,29 +19,26 @@ introimg:
   - image_path: /assets/images/demo.gif
     alt: "placeholder image 2"
     type: "center"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Having your cake and eating it too"
+    excerpt: "Prismatica was designed from the ground up to be flexible, modular, and extensible. While the system does have core C2 components, extending and integrating 0-day capabilities has never been easier!
+    Watch the Security Weekly episode below to learn how to make a python implant that takes advantage of all of Prismatica's capability in under 15 minutes."
+    url: "https://youtu.be/SUu_VtJo19Y"
+    btn_label: "See the Video"
     btn_class: "btn--primary"
 introimg2:
   - image_path: /assets/images/demo2.png
     alt: "placeholder image 2"
     type: "center"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Cross-Platform, Multiuser, Scriptable"
+    excerpt: 'Prismatica supports multiple users operating from Linux, Windows, and MacOS systems to enable red teams to maximize their efficency while on engagements.
+    When handling large numbers of agents filtering numerous filtering options are available to enhance OnNet target interaction.'
 introimg3:
   - image_path: /assets/images/demo3.png
     alt: "placeholder image 2"
     type: "center"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    title: "Prismatica Implants"
+    excerpt: 'Prismatica includes a **Backdoor Factory** to enable the rapid development and deployment of implants.
+    The default Prismatica implant, Gryffindor, is written in WSH JavaScript and leverages .NET Post-Exploitation libraries through DotNetToJScript.'
 outro:
 - image_path: /assets/images/demo4.png
   alt: "placeholder image 2"

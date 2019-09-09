@@ -17,6 +17,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tags/</loc>
 </url>
 <url>
@@ -24,9 +27,5 @@
 </url>
 <url>
 <loc>http://localhost:4000/tmp/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-<lastmod>2019-09-09T16:34:04-05:00</lastmod>
 </url>
 </urlset>
