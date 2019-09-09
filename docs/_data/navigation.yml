@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "Getting Started"
+    url: /guides/
+  - title: "Demo"
     url: /posts/
-  - title: "Documentation"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  - title: "API Documentation"
+    url: https://documenter.getpostman.com/view/1609493/7TT8UqJ?version=latest
+  - title: "Development"
+    url: https://github.com/Project-Prismatica/Diagon/projects/1
   - title: "About"
     url: https://www.opensecurity.io/team
