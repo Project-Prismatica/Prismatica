@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Prismatica
+email: support@opensecurity.io
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+twitter_username: @_opensecurity_
+github_username: @0sm0s1z
 minimal_mistakes_skin: default
 search: true
+logo: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -58,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Matthew Toussain"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "If there’s a common thread in Matthew Toussain’s personal life and infosec career, it’s ingenuity. He’s turned a ’76 Mustang into an electric car, worked on programs designed to provide early warnings of orchestrated terrorist attacks, and teaches his SANS Institute students to think outside the box while sharpening their skills in penetration testing. It was a SANS instructor that inspired Matthew to join the faculty at SANS. “The opportunity to have that kind of elemental impact on a newcomer’s information security journey is singular, rare, and profound.” he says. His impact at SANS is notable; he’s already co-authored a course, SEC460 - Enterprise Threat and Vulnerability Assessment, and teaches SEC560, all while continuing to work as a security analyst for several firms, including Open Security, which he founded."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -94,7 +95,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
